@@ -14,4 +14,4 @@ Learn SQL using: SQL Server, Oracle, MySQL, DB2, and PostgreSQL.
 | 07    | [More JOIN operations](sql_files\)                    |
 | 08    | [Using Null](sql_files\)                              |
 | 09    | [Numeric Examples](sql_files\)                        |
-| 10    | [NSelf join](sql_files\)                              |
+| 10    | [Self join](sql_files\)                               |
