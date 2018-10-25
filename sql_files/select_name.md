@@ -1,4 +1,18 @@
-# DEMO
+                            world                               
+
+| name        | continent |
+| :---------- | :-------- |
+| Afghanistan | Asia      |
+| Albania     | Europe    |
+| Algeria     | Africa    |
+| Andorra     | Europe    |
+| Angola      | Africa    |
+
+Pattern Matching Strings
+---
+___
+This tutorial uses the LIKE operator to check names. We will be using the SELECT command on the table world:
+___
 
 1. You can use `WHERE name LIKE 'B%'` to find the countries that start with "B".
 
