@@ -1,22 +1,10 @@
+# Join
+
 ![join](FootballERD.png)
+![Game Table](game.jpg)
+![Goal Table](goal.jpg)
+![Eteam Table](eteam.jpg)
 
-                          game
-| id   | mdate        | stadium                   | team1 | team2 |
-| ---- | ------------ | ------------------------- | ----- | ----- |
-| 1001 | 8 June 2012  | National Stadium, Warsaw  | POL   | GRE   |
-| 1002 | 8 June 2012  | Stadion Miejski (Wroclaw) | RUS   | CZE   |
-| 1003 | 12 June 2012 | Stadion Miejski (Wroclaw) | GRE   | CZE   |
-| 1004 | 12 June 2012 | National Stadium, Warsaw  | POL   | RUS   |
-
-
-                          goal
-| matchid | teamid       | player                    | gtime |
-| ------- | ------------ | ------------------------- | ----- | --- |
-| 1001    | 8 June 2012  | National Stadium, Warsaw  | POL   | GRE |
-| 1002    | 8 June 2012  | Stadion Miejski (Wroclaw) | RUS   | CZE |
-| 1003    | 12 June 2012 | Stadion Miejski (Wroclaw) | GRE   | CZE |
-| 1004    | 12 June 2012 | National Stadium, Warsaw  | POL   | RUS |
-    
 ___
 
 
